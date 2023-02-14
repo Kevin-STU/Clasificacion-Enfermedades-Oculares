@@ -19,3 +19,6 @@ https://colab.research.google.com/drive/1Lq67ASNTii6tPVQuGlATg08n1qCDVvMg?usp=sh
 
 ## Enlace del video
 https://youtu.be/0AlVkTLYKFo
+
+## Enlace de las diapositivas
+https://docs.google.com/presentation/d/12uk3mcWkkE1C_rq444p9meLV0wJsxqvp/edit?usp=sharing&ouid=113750339374582185665&rtpof=true&sd=true
