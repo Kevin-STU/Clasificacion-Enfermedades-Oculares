@@ -8,7 +8,7 @@ Adel Mauricio Álvarez Amado, Carlos Iván Ramirez Díaz, Kevin Alexis Prada Mor
 ## Objetivo
 Clasificar las enfermedades oculares como; retinopatía diabética, catarata, glaucoma y normal.
 
-## Dataset (eye_diseases_classification)
+## Dataset (eye_diseases)
 El dataset consta de imágenes retinales normales, de retinopatía diabética, de cataratas y de glaucoma, donde cada clase tiene aproximadamente 1000 imágenes. Estas imágenes se recopilan de varias fuentes como IDRiD, reconocimiento Oculur, HRF, etc.
 https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 
