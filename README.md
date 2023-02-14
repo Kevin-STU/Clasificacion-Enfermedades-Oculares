@@ -1,1 +1,1 @@
-# Clasificaci-n-Enfermedades-Oculares
+# Clasificacion-Enfermedades-Oculares
