@@ -10,12 +10,11 @@ Clasificar las enfermedades oculares como; retinopatía diabética, catarata, gl
 
 ## Dataset (eye_diseases_classification)
 El dataset consta de imágenes retinales normales, de retinopatía diabética, de cataratas y de glaucoma, donde cada clase tiene aproximadamente 1000 imágenes. Estas imágenes se recopilan de varias fuentes como IDRiD, reconocimiento Oculur, HRF, etc.
+https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 
 ## Dataset (Glaucoma_dataset)
 El dataset consta de imágenes de glaucoma que utilizamos para balancear el dataset para el problema de "otras vs glaucoma" (sub-problema)
 https://www.kaggle.com/datasets/sreeharims/glaucoma-dataset
-
-https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 
 ## Modelos
 GaussianNB, DecisionTree, RandomForest, SVM (Poly, sigmoid, rbf) y red neuronal (DNN)
